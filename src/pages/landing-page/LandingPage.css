@@ -1,0 +1,7 @@
+.BoxPage{
+    background-image: url("https://d3i4yxtzktqr9n.cloudfront.net/web-eats-v2/9b21aa66b4922ae2.png");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }

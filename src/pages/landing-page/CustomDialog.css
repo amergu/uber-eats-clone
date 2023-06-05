@@ -1,0 +1,7 @@
+.datePicker:focus-visible {
+    outline: none;
+}
+
+.datePickerDiv:focus-visible{
+    outline: none;
+}

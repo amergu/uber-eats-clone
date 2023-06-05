@@ -1,0 +1,11 @@
+.addressBar:focus-within{
+    box-shadow: rgb(0,0,0) 0px -2px 0px inset !important;
+}
+
+.clearButton{
+    display:block
+}
+
+.clearButton.hidden{
+    display:none;
+}

@@ -1,0 +1,16 @@
+.MuiButton-contained{
+    text-transform: none !important;
+}
+
+.TopNavBar {
+    background-color: transparent !important;
+}
+
+.TopNavBar.scrolled{
+    background-color: white !important;
+    box-shadow: rgb(226, 226, 226) 0px -2px 0px inset ;
+}
+
+.deliveryAddress:focus-within{
+    box-shadow: rgb(0,0,0) 0px -2px 0px inset !important;
+}
